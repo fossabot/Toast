@@ -1,4 +1,6 @@
 # Toast Framework
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdaneden%2FToast.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdaneden%2FToast?ref=badge_shield)
+
 The Toast framework is a grid. That's it. Soon, it might have type styles and whatnot, but its power is in its highly customisable design.
 
 Set any number of columns, any gutter size you want, and whatever classes you need. Just edit the `_grid.scss` file’s variables to your needs.
@@ -75,3 +77,7 @@ Toast has some modifiers to make different kinds of layouts easier. There are br
 ```
 
 That’s it. Have fun.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdaneden%2FToast.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdaneden%2FToast?ref=badge_large)
